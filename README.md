@@ -29,7 +29,6 @@ Official production Member App binaries for Android and iOS (R8 minified & Dart 
 | **Android** | Split APK (32-bit) | `armeabi-v7a` | 30.3 MB | Older & budget 32-bit phones (Redmi 9A/A1/A2, Samsung A03 Core, Android Go devices) | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Member_App_v1.0.0_armeabi-v7a_release.apk) |
 | **Android** | Split APK (Chromebook / x86) | `x86_64` | 36.2 MB | Chromebooks, Intel / AMD Android tablets, and desktop emulators | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Member_App_v1.0.0_x86_64_release.apk) |
 | **Android** | Universal APK | All ABIs | 87.5 MB | All-in-one package compatible with every Android device | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Member_App_v1.0.0_Universal_release.apk) |
-| **Android** | Admin App (Universal) | All ABIs | 93.9 MB | Management & Staff official check-in portal | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Admin_App_v1.0.0_Universal_release.apk) |
 | **Apple iOS** | Native IPA | `arm64` (iOS 16+) | 32.1 MB | iPhone and iPad (Install via Sideloadly, AltStore, Scarlet, TrollStore) | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Member_App_v1.0.0_iOS.ipa) |
 
 ### Installation Instructions
