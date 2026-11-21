@@ -5,7 +5,7 @@
 [![Backend](https://img.shields.io/badge/Backend-Supabase%20Postgres-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Baileys%20Gateway-25D366?logo=whatsapp&logoColor=white)](https://github.com/WhiskeySockets/Baileys)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](#proprietary-notice--copyright)
-[![Release](https://img.shields.io/badge/Release-v1.0.0%2B1-orange)](https://github.com/anuraaag23/fitness-plaza/releases/tag/v1.0.0%2B1)
+[![Release](https://img.shields.io/badge/Release-v1.0.0%2B8012-orange)](https://github.com/anuraaag23/fitness-plaza/releases/tag/v1.0.0%2B8012)
 
 Fitness Plaza is a production-grade, full-stack gym management ecosystem built for modern fitness clubs. It features a native Flutter Member App backed by Supabase PostgreSQL with Row Level Security, automated WhatsApp OTP & push alerts, bilingual English & Hindi support, and a fluid 144Hz Liquid Glass design system.
 
@@ -19,17 +19,18 @@ Fitness Plaza is a production-grade, full-stack gym management ecosystem built f
 
 ---
 
-## Member App Download (Release v1.0.0+1)
+## Member App Download (Release v1.0.0+8012)
 
 Official production Member App binaries for Android and iOS (R8 minified & Dart symbol-obfuscated):
 
 | Platform | Package | Architecture | Size | Target Devices | Download |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Android** | Split APK (64-bit) | `arm64-v8a` | 33.7 MB | 99% of modern Android phones (Xiaomi, Samsung, OnePlus, Vivo, Oppo, Realme, iQOO, Pixel) | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B1/Fitness_Plaza_Member_App_v1.0.0_arm64-v8a_release.apk) |
-| **Android** | Split APK (32-bit) | `armeabi-v7a` | 30.3 MB | Older & budget 32-bit phones (Redmi 9A/A1/A2, Samsung A03 Core, Android Go devices) | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B1/Fitness_Plaza_Member_App_v1.0.0_armeabi-v7a_release.apk) |
-| **Android** | Split APK (Chromebook / x86) | `x86_64` | 36.2 MB | Chromebooks, Intel / AMD Android tablets, and desktop emulators | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B1/Fitness_Plaza_Member_App_v1.0.0_x86_64_release.apk) |
-| **Android** | Universal APK | All ABIs | 82.6 MB | All-in-one package compatible with every Android device | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B1/Fitness_Plaza_Member_App_v1.0.0_Universal_release.apk) |
-| **Apple iOS** | Native IPA | `arm64` (iOS 16+) | 32.1 MB | iPhone and iPad (Install via Sideloadly, AltStore, Scarlet, TrollStore) | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B1/Fitness_Plaza_Member_App_v1.0.0_iOS.ipa) |
+| **Android** | Split APK (64-bit) | `arm64-v8a` | 33.8 MB | 99% of modern Android phones (Xiaomi, Samsung, OnePlus, Vivo, Oppo, Realme, iQOO, Pixel) | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Member_App_v1.0.0_arm64-v8a_release.apk) |
+| **Android** | Split APK (32-bit) | `armeabi-v7a` | 30.3 MB | Older & budget 32-bit phones (Redmi 9A/A1/A2, Samsung A03 Core, Android Go devices) | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Member_App_v1.0.0_armeabi-v7a_release.apk) |
+| **Android** | Split APK (Chromebook / x86) | `x86_64` | 36.2 MB | Chromebooks, Intel / AMD Android tablets, and desktop emulators | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Member_App_v1.0.0_x86_64_release.apk) |
+| **Android** | Universal APK | All ABIs | 87.5 MB | All-in-one package compatible with every Android device | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Member_App_v1.0.0_Universal_release.apk) |
+| **Android** | Admin App (Universal) | All ABIs | 93.9 MB | Management & Staff official check-in portal | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Admin_App_v1.0.0_Universal_release.apk) |
+| **Apple iOS** | Native IPA | `arm64` (iOS 16+) | 32.1 MB | iPhone and iPad (Install via Sideloadly, AltStore, Scarlet, TrollStore) | [Download](https://github.com/anuraaag23/fitness-plaza/releases/download/v1.0.0%2B8012/Fitness_Plaza_Member_App_v1.0.0_iOS.ipa) |
 
 ### Installation Instructions
 
